@@ -46,12 +46,11 @@
 ---
 
 ### 📌 Featured Projects
+- 🌾 **Rice Leaf Disease Detection** – ML model to detect and classify rice leaf diseases from images  
+- 🎬 **Movie Recommendation System** – Content-based recommender with Streamlit interface  
 - 📊 **Loan Prediction Model** – Machine Learning model to predict loan approval
-- 🌐 **Flask App** – Built a lightweight web interface for ML model predictions
 - ☁️ **AWS EC2** – Deployed and hosted Flask application for real-time access
 - 🔍 **Data Dashboard** – Interactive dashboards in **Power BI** & **Tableau**
-- 📈 **Time Series Forecasting** – Predicting trends using ARIMA
-
 
 ---
 
